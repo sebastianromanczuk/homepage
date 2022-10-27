@@ -5,7 +5,7 @@ Siema
 
 ##Demo
 
-https://sebastianromanczuk.github.lo/homepage/
+https://sebastianromanczuk.github.io/homepage/
 
 # Opis
 
