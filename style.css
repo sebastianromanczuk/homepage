@@ -8,6 +8,11 @@ body {
     color: #d2d3d3;
     font-family: 'Poppins', sans-serif;
     text-align: center;
+    width: 200;
+    height: 200;
+    resize: both;
+    background-image: url(../Homepack/ZDJ/cat-ga7b7d1702_640.jpg);
+    background-size: 300px;
 }
 
 .dark{
