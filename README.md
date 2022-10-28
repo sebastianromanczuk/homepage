@@ -1,14 +1,8 @@
 # homepage
-Siema 
+Witam Jestem Sebastian o to będzie moja wizytówka :)
 
 #Sebastian Romańczuk
-
-##Demo
 
 Moja wizytówka :)
 
 https://sebastianromanczuk.github.io/homepage/
-
-# Opis
-
-Nie wiadomo co to
