@@ -11,8 +11,8 @@ body {
     width: 200;
     height: 200;
     resize: both;
-    background-image: url(../Homepack/ZDJ/cat-ga7b7d1702_640.jpg);
     background-size: 300px;
+    background-image: url(../Homepack/ZDJ/cat-ga7b7d1702_640.jpg);
     background-attachment: local;
     background-position: local;
 }
@@ -89,6 +89,7 @@ body {
 }
 
 .button {
+    text-decoration: underline dotted black;
     color: #ff7a0e;
     font-size: small;
     display: block;
@@ -123,3 +124,50 @@ body {
     display: none;
   }
 
+.flex {
+    border: 10px solid black;
+    width: 220px;
+    display: flex;
+    margin: center;
+    text-align: center;
+    flex-direction: column;
+    flex-basis: 20px;
+    align-self: baseline;
+    flex-wrap: wrap;
+}
+
+.flex_item {
+    padding: 20px;
+    background: teal;
+    color: #ffffff;
+    margin: 10px;
+    flex-basis: 20px;
+    align-items: flex-start;
+}
+
+.form_ConverterButton {
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto 5cm;
+    background-color: rgba(89, 107, 96, 0.947);
+}
+
+.form_ConverterButton:hover {
+    background-color: rgba(85, 92, 88, 0.647);
+}
+
+.F_C_F {
+    max-width: 600px;
+    margin: 10 auto;
+    border: 10px solid rgba(223, 45, 45, 0.947);
+    background-color: rgb(54, 31, 31);
+}
+
+.F_L {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto 5cm;
+    padding: 10px;
+    background-color: rgba(223, 45, 45, 0.947);
+}
