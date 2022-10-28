@@ -13,6 +13,8 @@ body {
     resize: both;
     background-image: url(../Homepack/ZDJ/cat-ga7b7d1702_640.jpg);
     background-size: 300px;
+    background-attachment: local;
+    background-position: local;
 }
 
 .dark{
