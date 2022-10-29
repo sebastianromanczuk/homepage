@@ -144,30 +144,3 @@ body {
     flex-basis: 20px;
     align-items: flex-start;
 }
-
-.form_ConverterButton {
-    width: 200px;
-    border: 1px solid black;
-    border-radius: 5px;
-    margin: auto 5cm;
-    background-color: rgba(89, 107, 96, 0.947);
-}
-
-.form_ConverterButton:hover {
-    background-color: rgba(85, 92, 88, 0.647);
-}
-
-.F_C_F {
-    max-width: 600px;
-    margin: 10 auto;
-    border: 10px solid rgba(223, 45, 45, 0.947);
-    background-color: rgb(54, 31, 31);
-}
-
-.F_L {
-    border: 1px solid black;
-    border-radius: 5px;
-    margin: auto 5cm;
-    padding: 10px;
-    background-color: rgba(223, 45, 45, 0.947);
-}
