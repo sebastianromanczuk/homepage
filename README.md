@@ -1,5 +1,5 @@
 # homepage
-☎ ## Witam Jestem Sebastian o to będzie moja wizytówka ☎
+☎  Witam Jestem Sebastian o to będzie moja wizytówka ☎
 
 ✚✚ Sebastian Romańczuk ✚✚
 
