@@ -1,8 +1,11 @@
 # homepage
-Witam Jestem Sebastian o to będzie moja wizytówka :)
+☎ Witam Jestem Sebastian o to będzie moja wizytówka ☎
 
-#Sebastian Romańczuk
+✚✚ Sebastian Romańczuk ✚✚
 
-Moja wizytówka :)
 
-https://sebastianromanczuk.github.io/homepage/
+
+
+☁ Moja wizytówka :) ☁
+
+ (https://sebastianromanczuk.github.io/homepage/)
