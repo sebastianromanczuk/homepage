@@ -1,6 +1,6 @@
 # homepage
 
-### Witam Jestem Sebastian o to będzie moja wizytówka ☎
+### Hello, I'm Sebastian, this will be my business card ☎
 
 ## Sebastian Romańczuk ✚✚
 
