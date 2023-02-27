@@ -7,12 +7,8 @@ Technologies used:
 # HTML
 # CSS
 
-## Sebastian Romańczuk ✚✚
+# DEMO: https://sebastianromanczuk.github.io/homepage/
 
 ![Sebastian](https://i.postimg.cc/QMyBCyVX/82318490-1646274338875226-4300544069744687511-n.jpg)
-
-
-
- demo :(https://sebastianromanczuk.github.io/homepage/)
  
  SEE YOU LATER! :)
