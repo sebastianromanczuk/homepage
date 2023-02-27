@@ -6,6 +6,7 @@ Technologies used:
 
 # HTML
 # CSS
+# JAVASCRIPT
 
 # DEMO: https://sebastianromanczuk.github.io/homepage/
 
