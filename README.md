@@ -11,4 +11,4 @@ Technologies used:
 
 # DEMO: https://sebastianromanczuk.github.io/homepage/
  
- SEE YOU LATER! :)
+ # SEE YOU LATER! :)
