@@ -2,6 +2,11 @@
 
 ### Hello, I'm Sebastian, this will be my business card ☎
 
+Technologies used:
+
+# HTML
+# CSS
+
 ## Sebastian Romańczuk ✚✚
 
 ![Sebastian](https://i.postimg.cc/QMyBCyVX/82318490-1646274338875226-4300544069744687511-n.jpg)
@@ -9,3 +14,5 @@
 
 
  demo :(https://sebastianromanczuk.github.io/homepage/)
+ 
+ SEE YOU LATER! :)
